@@ -1,0 +1,11 @@
+﻿<Application x:Class="MotorInsuranceCalculator.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:MotorInsuranceCalculator.ViewModels"
+             StartupUri="Views/PolicyView.xaml">
+    <Application.Resources>
+        <local:PolicyViewModel x:Key="PolicyViewModel"/>
+        <local:AddDriverViewModel x:Key="AddDriverViewModel"/>
+        <local:AddClaimViewModel x:Key="AddClaimViewModel"/>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,7 @@
+C:\Users\-Sandee\Documents\Visual Studio 2012\Projects\MotorInsuranceCalculator\MotorInsuranceCalculatorTest\bin\Debug\MotorInsuranceCalculatorTest.dll
+C:\Users\-Sandee\Documents\Visual Studio 2012\Projects\MotorInsuranceCalculator\MotorInsuranceCalculatorTest\bin\Debug\MotorInsuranceCalculatorTest.pdb
+C:\Users\-Sandee\Documents\Visual Studio 2012\Projects\MotorInsuranceCalculator\MotorInsuranceCalculatorTest\bin\Debug\MotorInsuranceCalculator.exe
+C:\Users\-Sandee\Documents\Visual Studio 2012\Projects\MotorInsuranceCalculator\MotorInsuranceCalculatorTest\bin\Debug\MotorInsuranceCalculator.pdb
+C:\Users\-Sandee\Documents\Visual Studio 2012\Projects\MotorInsuranceCalculator\MotorInsuranceCalculatorTest\obj\Debug\MotorInsuranceCalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\-Sandee\Documents\Visual Studio 2012\Projects\MotorInsuranceCalculator\MotorInsuranceCalculatorTest\obj\Debug\MotorInsuranceCalculatorTest.dll
+C:\Users\-Sandee\Documents\Visual Studio 2012\Projects\MotorInsuranceCalculator\MotorInsuranceCalculatorTest\obj\Debug\MotorInsuranceCalculatorTest.pdb
